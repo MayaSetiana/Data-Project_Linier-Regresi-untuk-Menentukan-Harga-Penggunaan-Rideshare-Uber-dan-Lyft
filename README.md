@@ -7,12 +7,12 @@ Context
 - Project ini menggunakan model Linier Regresi untuk menentukan harga yang harus dikeluarkan untuk menggunakan rideshare Uber ataupun Lyft. Data yang digunakan merupakan dataset Uber and Lyft Dataset Boston, MA yang mencatat pemesanan perjalanan taksi Uber dan Lyft di Kota Boston selama November-Desember 2018. Dataset ini terdiri dari 693071 baris dengan total kolom sebanyak 57 tentang data harga perjalanan menggunakan taksi Uber & Lyft berdasarkan waktu, penggandaan harga (surge multiplier), jarak, dan keadaan cuaca pada saat itu. Adapun variabel dependen dari data yang digunakan adalah variabel price.
 - Model Linier Regression digunakan untuk mengetahui pengaruh waktu, penggandaan hargam jarak, dan keaadan cuaca terhadap variasi harga serta mendapatkan model prediksi untuk harga armada Uber/Lyft berdasarkan faktor-faktor yang diketahui.
 - Link dataset: https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma/data
-- 
+  
 Objective
 - Mampu memahami konsep regression dengan Linear Regression
 - Mampu mempersiapkan data untuk digunakan dalam model Linear Regression 
 - Mampu mengimplementasikan Linear Regression untuk membuat prediksi
-- 
+  
 Reporting
 Dataset Uber and Lyft Dataset Boston, MA terdiri dari 693071 baris dan 57 kolom. Setelah dilakukan eksplorasi, didapatkan beberal informasi di antaranya:
 1. Jumlah penggunaan layanan Uber lebih tinggi dibandingkan dengan layanan Lyft. Layanan Uber digunakan oleh 51% dari total pengguna, yaitu sebanyak 330.568 pengguna, sementara layanan Lyft digunakan oleh 48,2% dari total pengguna, yaitu 307.408 pengguna. Perbedaan jumlah pengguna antara Uber dan Lyft adalah 23.160.
